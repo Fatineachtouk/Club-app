@@ -1,5 +1,5 @@
 # Ignore logo file
-logo_sans_bg.png
+
 
 # Python cache / virtual environments
 __pycache__/
